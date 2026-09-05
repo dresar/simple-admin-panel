@@ -1,0 +1,12 @@
+export { default as LoginPage } from './LoginPage';
+export { default as DashboardPage } from './DashboardPage';
+export { default as ProjectsPage } from './ProjectsPage';
+export { default as BlogPage } from './BlogPage';
+export { default as ResumePage } from './ResumePage';
+export { default as ContentPage } from './ContentPage';
+export { default as InboxPage } from './InboxPage';
+export { default as SubscribersPage } from './SubscribersPage';
+export { default as ProfilePage } from './ProfilePage';
+export { default as UsersPage } from './UsersPage';
+export { default as SecurityPage } from './SecurityPage';
+export { default as SettingsPage } from './SettingsPage';
